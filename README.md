@@ -342,7 +342,3 @@ public class DragGridlayout extends GridLayout{
     }
 }
 ```
-
-## 摩天轮控件分析
-
-![摩天轮控件分析](img/摩天轮控件分析.png)
