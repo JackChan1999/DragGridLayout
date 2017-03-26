@@ -1,0 +1,2 @@
+# DragGridLayout
+自定义GridLayout控件，实现新闻频道等拖拽管理的炫酷功能
