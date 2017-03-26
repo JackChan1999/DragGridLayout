@@ -2,7 +2,7 @@
 
 自定义GridLayout控件，实现新闻频道等拖拽管理的炫酷功能
 
-<img src="./img/gridlayout.jpg" width="400" />
+<img src="art/gridlayout.jpg" width="400" />
 
 自定义GridLayout控件，可以在新闻咨询类APP中的管理页面使用到，也可以应用在类别管理中，总之，可以帮助我们设计更加规范和炫酷的手机页面。
 
